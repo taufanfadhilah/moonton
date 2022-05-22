@@ -28,5 +28,8 @@
         "react-dom": "^17.0.2",
         "react-refresh": "^0.13.0",
         "tailwindcss": "^3.0.18"
+    },
+    "dependencies": {
+        "prop-types": "^15.8.1"
     }
 }
