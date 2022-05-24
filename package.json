@@ -30,6 +30,8 @@
         "tailwindcss": "^3.0.18"
     },
     "dependencies": {
-        "prop-types": "^15.8.1"
+        "flickity": "^3.0.0",
+        "prop-types": "^15.8.1",
+        "react-flickity-component": "^3.6.2"
     }
 }
